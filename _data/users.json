@@ -1,0 +1,15 @@
+{
+  "_id": "asfasfafsaf",
+  "user_id":"radline000",
+  "createAt":"2021-11-29-122.2.22",
+  "name": "김요환",
+  "email":"radline000@gmail.com",
+  "friends":[
+    {
+      "user._id":"115515"
+    },
+    {
+      "user_id":"12451512"
+    }
+  ]
+}
